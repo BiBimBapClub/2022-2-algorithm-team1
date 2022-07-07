@@ -1,3 +1,9 @@
+# Type your title under this line
+
+
+# Type your body under this line
+
+
 # Title : [type] (#tag) : Description(issue_name/file_description)
 #   ex) Solve #7 : Hello, World
 #   ex) Docs : 브루트 포스 발표자료
@@ -11,6 +17,7 @@
 #  <type> list
 #   Solve  : 해결한 문제 커밋
 #   Docs   : 소스코드가 아닌 다른 파일을 올릴 때
+#   Fix : 소스코드나 파일을 수정할 때
 # ------------------
 #  tag 작성 요령
 #   해당 문제에 대한 issue 번호를 기입하여 레퍼런스를 남깁니다.
