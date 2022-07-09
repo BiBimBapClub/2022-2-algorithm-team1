@@ -28,6 +28,11 @@ brute : 무식한 , force : 힘의 합성어로 완전탐색으로 가능한 모
     2. 구조화된 자료들을 구조에 맞는 방법으로 해를 구할 때까지 탐색한다. (탐색)
     3. 탐색한 해를 주어진 문제의 출력 형식에 맞게 정리한다. (정리)
 - [ ]  백트래킹
+- 백트래킹 설명
+    
+    백트래킹이란 DFS를 통해 사건 탐색도중 해당 트리가 잘못되었음을 인지하면 중단점으로 돌아가 다시 탐색하는 기법이다.
+    
+
 - [ ]  DFS
 - [ ]  BFS
 
@@ -111,3 +116,18 @@ FOR i
 
 return max
 ```
+
+			
+	
+
+# 추천 문제(난이도 순)
+
+1. [https://www.acmicpc.net/problem/2231](https://www.acmicpc.net/problem/2231)
+2. [https://www.acmicpc.net/problem/2309](https://www.acmicpc.net/problem/2309)
+3. [https://www.acmicpc.net/problem/10448](https://www.acmicpc.net/problem/10448)
+4. [https://www.acmicpc.net/problem/1051](https://www.acmicpc.net/problem/1051)
+5. [https://www.acmicpc.net/problem/14717](https://www.acmicpc.net/problem/14717)
+6. [https://www.acmicpc.net/problem/1018](https://www.acmicpc.net/problem/1018)
+7. [https://www.acmicpc.net/problem/3085](https://www.acmicpc.net/problem/3085)
+8. [https://www.acmicpc.net/problem/2503](https://www.acmicpc.net/problem/2503)
+9. [https://www.acmicpc.net/problem/1182](https://www.acmicpc.net/problem/1182)
